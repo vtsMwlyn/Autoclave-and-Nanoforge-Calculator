@@ -5,6 +5,7 @@ Because of this reason, players especially those who sell surgery and/or startop
 This calculator can help simulate the system without losing the real item and the result will be visualized in the apps.
 
 Read more about surgery, startopia, autoclave, and startool nanoforge here:
+
 https://growtopia.fandom.com/wiki/Guide:Surgery
 
 https://growtopia.fandom.com/wiki/Autoclave
